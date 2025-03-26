@@ -44,8 +44,7 @@ yarn install  # If using yarn
 
 then open
 http://localhost:3000
-
-
+```
 🚀 Deployment
 To deploy on Vercel, use:
 npx vercel deploy
