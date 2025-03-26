@@ -45,13 +45,13 @@ yarn install  # If using yarn
 then open
 http://localhost:3000
 ```
-🚀 Deployment
+##🚀 Deployment
 To deploy on Vercel, use:
 npx vercel deploy
 
 
-🤝 Contributing
+##🤝 Contributing
 We welcome contributions! Please open an issue or submit a pull request on GitHub.
 
-📧 Contact
+##📧 Contact
 For issues or suggestions, reach out via GitHub issues.
